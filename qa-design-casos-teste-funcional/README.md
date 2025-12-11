@@ -7,10 +7,7 @@ Demonstrar proficiência na fase de planejamento de testes, essencial para qualq
 * **Mapeamento Funcional:** Identificação de cenários de teste críticos (ex: botões e fluxo de locação).
 * **Documentação:** Uso de planilhas para documentação formal dos artefatos de teste.
 
-## 📂 Conteúdo do Repositório
+## Conteúdo do Repositório
 * `casos_teste_locacao.csv`: Casos de teste para o fluxo principal (locação/compra).
 * `checklist_layout.csv`: Checklist para validação de interface do usuário (UI).
 * `casos_teste_botoes.csv`: Casos de teste para verificação funcional de elementos interativos.
-
-## ➡️ Próximos Passos
-Os casos de teste e checklists desenvolvidos aqui servirão como base para a criação de scripts de Automação de Testes em futuras sprints.
